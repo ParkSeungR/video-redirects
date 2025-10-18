@@ -10,4 +10,157 @@
   
   "video4": "https://youtu.be/YwVGix7Apik",
   "_video4_desc": "4. 파이썬 생태계와 생성형 AI활용"
+
+  "video1": "https://youtu.be/jalPAygFNCc",
+  "_video1_desc": "1. 파이썬 생태계 만들기",
+  
+  "video2": "https://youtu.be/Wj01PQMcxUo",
+  "_video2_desc": "2. Google Drive에서 Google Colab 설행하기",
+  
+  "video3": "https://youtu.be/YJt8qSXUFiU",
+  "_video3_desc": "3. 외존성 지옥(Dependence Hell",
+  
+  "video4": "https://youtu.be/YwVGix7Apik",
+  "_video4_desc": "4. 파이썬 생태계와 생성형 AI활용",
+  
+  "video5": "https://youtu.be/n4CfTRBybDs",
+  "_video5_desc": "파이썬, 넘파이, 판다스, 맷플롯립",
+  
+  "video6": "https://youtu.be/zZ8Fzy7NkNY",
+  "_video6_desc": "탐색적 데이터 분석, 확률 분포, 추론",
+  
+  "video7": "https://youtu.be/HwUIJkJ1Bic",
+  "_video7_desc": "데이터세트와 변수 처리",
+  
+  "video8": "https://youtu.be/LQB7wu6IbB8",
+  "_video8_desc": "고전적 최소자승법",
+  
+  "video9": "https://youtu.be/OYHJzXs__KI",
+  "_video9_desc": "최소자승법에서 정규성과 추론",
+  
+  "video10": "https://youtu.be/M3bVrjW3niU",
+  "_video10_desc": "모형 설정과 함수 형태",
+  
+  "video11": "https://youtu.be/T9UkJiqXhiY",
+  "_video11_desc": "더미 변수의 활용",
+  
+  "video12": "https://youtu.be/gzMeyK5Mi1s",
+  "_video12_desc": "최우법",
+  
+  "video13": "https://youtu.be/gxs25-8r7x8",
+  "_video13_desc": "3. 확률 변경 생산함수와 확률 변경 비용함수 추정",
+  
+  "video14": "https://youtu.be/JSIFXTVZIWg",
+  "_video14_desc": "[보완] 자료 포락분석",
+  
+  "video15": "https://youtu.be/FSqTVBKjsc8",
+  "_video15_desc": "다중공선성",
+  
+  "video16": "https://youtu.be/48pxnGehFSc",
+  "_video16_desc": "이분산",
+  
+  "video17": "https://youtu.be/w_lGX1H8QHo",
+  "_video17_desc": "자기상관",
+  
+  "video18": "https://youtu.be/U3DqbHkgFAc",
+  "_video18_desc": "회귀모형 추정결과의 리포트",
+  
+  "video19": "https://youtu.be/Mj6dKSJ1SWk",
+  "_video19_desc": "회귀분석 전 과정을 하나의 명령어로 추정하기",
+  
+  "video20": "https://youtu.be/T43-mwmYm0Q",
+  "_video20_desc": "연립방정식 모형",
+  
+  "video21": "https://youtu.be/FUnhObV788s",
+  "_video21_desc": "4. 연립방정식 모형의 다양한 추정법을 명령어 하나로 추정하기",
+  
+  "video22": "https://youtu.be/Z1s3AGoQRcM",
+  "_video22_desc": "구조방정식 모형",
+  
+  "video23": "https://youtu.be/TgQZGyfH7mk",
+  "_video23_desc": "정성적 종속변수 모형",
+  
+  "video24": "https://youtu.be/Ntx7tqPxd4Y",
+  "_video24_desc": "마. 이원 선택모형의 추정을 하나의 명령어로 ",
+  
+  "video25": "https://youtu.be/5NV_Gp42x90",
+  "_video25_desc": "제한 종속변수 모형",
+  
+  "video26": "https://youtu.be/9XO_ACsFjPo",
+  "_video26_desc": "집계자료 회귀모형",
+  
+  "video27": "https://youtu.be/GQSgSamWQLY",
+  "_video27_desc": "시계열 자료와 횡단면 자료의 혼용",
+  
+  "video28": "https://youtu.be/LaOMP6FMMnE",
+  "_video28_desc": "패널 자료의 회귀분석",
+  
+  "video29": "https://youtu.be/68yFmPWwcKk",
+  "_video29_desc": "6. 패널 모형의 추정을 하나의 명령어로",
+  
+  "video30": "https://youtu.be/6_FjVbZOg0k",
+  "_video30_desc": "단변량 시계열 분석",
+  
+  "video31": "https://youtu.be/P4RatwjSt-8",
+  "_video31_desc": "ARIMA 모형",
+  
+  "video32": "https://youtu.be/erJHHExlLw0",
+  "_video32_desc": "7. SARIMAX 모형을 하나의 명령어로",
+  
+  "video33": "https://youtu.be/dNWHtm4dWcE",
+  "_video33_desc": "벡터 자기 회귀모형 (VAR)",
+  
+  "video34": "https://youtu.be/and02iopdrc",
+  "_video34_desc": "4. 벡터 자기회귀 모형의 분석을 하나의 명령어로",
+  
+  "video35": "https://youtu.be/-lU51nEQYqc",
+  "_video35_desc": "공적분과 오차수정 모형",
+  
+  "video36": "https://youtu.be/zmIFWLbO7j4",
+  "_video36_desc": "ARCH 모형과 GARCH 모형",
+  
+  "video37": "https://youtu.be/aZcnjYxEqiA",
+  "_video37_desc": "머신러닝 분석 절차 살펴보기",
+  
+  "video38": "https://youtu.be/sUO46cxdwKE",
+  "_video38_desc": "3. PyCaret을 이용한 회귀(Regression)",
+  
+  "video39": "https://youtu.be/mwhvRSpICw8",
+  "_video39_desc": "4. PyCaret을 이용한 2진 분류(Binary Classification)",
+  
+  "video40": "https://youtu.be/dDdU16uuuTI",
+  "_video40_desc": "5. PyCaret을 이용한 다중 분류(multiple classification)",
+  
+  "video41": "https://youtu.be/s2RNZk0gJhA",
+  "_video41_desc": "6. PyCaret을 이용한 군집분석( clustering)",
+  
+  "video42": "https://youtu.be/jc3nDJJdq7A",
+  "_video42_desc": "7. Pycaret를 이용한 단변량 시계열 분석",
+  
+  "video43": "https://youtu.be/tqgzWZk-c9g",
+  "_video43_desc": "인과추론의 분석 절차: DoWhy 활용",
+  
+  "video44": "https://youtu.be/skoe3nrtPEA",
+  "_video44_desc": "방향성 비순환 그래프를 활용한 인과추론",
+  
+  "video45": "https://youtu.be/Q-ERN__GExc",
+  "_video45_desc": "인과관계의 발견",
+  
+  "video46": "https://youtu.be/3kcZiqGMomY",
+  "_video46_desc": "EconML을 이용한 인과추론",
+  
+  "video47": "https://youtu.be/exO6cQ3j2zE",
+  "_video47_desc": "다층 퍼셉트론과 케라스 기초",
+  
+  "video48": "https://youtu.be/5Kys3_IhL80",
+  "_video48_desc": "딥러닝의 응용 사례- 회귀분석, 이진 분류, 다중 분류",
+  
+  "video49": "https://youtu.be/5ZRKpbvFuws",
+  "_video49_desc": "딥러닝의 고급 기법",
+  
+  "video50": "https://youtu.be/i-OiXJMcIWQ",
+  "_video50_desc": "합성곱 신경망(CNN)의 개요",
+  
+  "video51": "https://youtu.be/_WozPbWM0Mk",
+  "_video51_desc": "순환 신경망(RNN)",
 }
